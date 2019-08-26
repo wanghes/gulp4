@@ -1,0 +1,23 @@
+{
+  "scripts": {
+    "start": "gulp watch"
+  },
+  "dependencies": {
+    "@babel/core": "^7.5.5",
+    "consolidate": "^0.15.1",
+    "del": "^5.1.0",
+    "express": "^4.17.1",
+    "gulp": "^4.0.2",
+    "gulp-babel": "^8.0.0",
+    "gulp-clean-css": "^4.2.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-less": "^4.0.1",
+    "gulp-rename": "^1.4.0",
+    "gulp-uglify": "^3.0.2",
+    "swig": "^1.4.2",
+    "swig-templates": "^2.0.3"
+  },
+  "devDependencies": {
+    "nodeman": "^1.1.2"
+  }
+}
